@@ -10,7 +10,7 @@ void insertionSort(int arr[], int n){
     //Kamus lokal
     int i,j,key;
 
-    //Algoritma {9,5,4,2,1}
+    //Algoritma
     for(i=1;i<n;i++){
         key=arr[i];
         j=i-1;
